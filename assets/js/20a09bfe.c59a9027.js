@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[456],{4791:l=>{l.exports=JSON.parse('[{"label":"bienvenido","permalink":"/blog-personal/blog/tags/bienvenido","count":1},{"label":"docusaurus","permalink":"/blog-personal/blog/tags/docusaurus","count":1},{"label":"tecnolog\xeda","permalink":"/blog-personal/blog/tags/tecnologia","count":1}]')}}]);
