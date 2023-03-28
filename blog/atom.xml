@@ -23,7 +23,7 @@
         <category label="vacaciones" term="vacaciones"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mi blog con Docosaurus]]></title>
+        <title type="html"><![CDATA[Mi blog con Docusaurus]]></title>
         <id>https://your-docusaurus-test-site.com/blog-personal/blog/welcome</id>
         <link href="https://your-docusaurus-test-site.com/blog-personal/blog/welcome"/>
         <updated>2023-03-27T00:00:00.000Z</updated>

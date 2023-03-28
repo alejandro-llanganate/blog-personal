@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Vaiv\xe9n: un cortometraje hecho en vacaciones","permalink":"/blog-personal/blog/vaiven-un-cortometraje-en-vacaciones"},{"title":"Mi blog con Docosaurus","permalink":"/blog-personal/blog/welcome"}]}')}}]);
