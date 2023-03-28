@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Alejandro Llanganate Blog</title>
+        <link>https://your-docusaurus-test-site.com/blog-personal/blog</link>
+        <description>Alejandro Llanganate Blog</description>
+        <lastBuildDate>Mon, 27 Mar 2023 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>es</language>
+        <item>
+            <title><![CDATA[Mi blog con Docosaurus]]></title>
+            <link>https://your-docusaurus-test-site.com/blog-personal/blog/welcome</link>
+            <guid>https://your-docusaurus-test-site.com/blog-personal/blog/welcome</guid>
+            <pubDate>Mon, 27 Mar 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Bienvenido al mundo de la tecnología sobre todo al de la Ingeniería de Software. Si eres alguien que ama la tecnología y está interesado en aprender más sobre cómo las experiencias de vida pueden influir en ella, has llegado al lugar correcto.]]></description>
+            <content:encoded><![CDATA[<p>Bienvenido al mundo de la tecnología sobre todo al de la Ingeniería de Software. Si eres alguien que ama la tecnología y está interesado en aprender más sobre cómo las experiencias de vida pueden influir en ella, has llegado al lugar correcto.</p><p>Este blog, creado con Docusaurus y utilizando React, es el lugar ideal para todos aquellos que desean sumergirse en el mundo de la tecnología. Aquí encontrarás una amplia variedad de artículos sobre temas relacionados con la tecnología, desde las últimas tendencias hasta las mejores prácticas en el desarrollo de software.</p><p>Además, este blog se enfoca en cómo la tecnología afecta nuestras vidas diarias y cómo nuestras experiencias de vida influyen en el desarrollo de la tecnología. Desde cómo la tecnología ha transformado la educación hasta cómo nos conectamos con amigos y familiares. Asú también en este blog encontrarás diferentes experiencias de vida y otros artículos culturales que sin duda disfrutarás.</p><p>Además, este sitio esta hecho con Docusaurus y React que son tecnologías que hacen posible que este blog sea intuitivo y fácil de navegar. La experiencia de usuario es excelente y la plataforma es fácil de utilizar. Encontrarás las publicaciones ordenadas y de fácil acceso.</p><p>En resumen, si te apasiona la tecnología y deseas conocer algunas experiencias de mi vida, te invito a que explores este blog creado con Docusaurus. Estoy seguro de que encontrarás los artículos interesantes, educativos y entretenidos. ¡Bienvenido al mundo de la tecnología!</p>]]></content:encoded>
+            <category>facebook</category>
+            <category>hello</category>
+            <category>docusaurus</category>
+        </item>
+    </channel>
+</rss>
