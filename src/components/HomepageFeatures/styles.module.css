@@ -1,0 +1,28 @@
+.features {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.featureSvg {
+  height: 200px;
+  width: 200px;
+}
+
+
+.row {
+  width: 100%;
+
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
