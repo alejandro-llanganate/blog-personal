@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[86],{5188:l=>{l.exports=JSON.parse('{"label":"tecnolog\xeda","permalink":"/blog-personal/blog/tags/tecnologia","allTagsPath":"/blog-personal/blog/tags","count":1}')}}]);
